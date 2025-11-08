@@ -101,6 +101,14 @@ I enjoy solving problems end-to-end, from data wrangling and feature engineering
 
 ## 📈 Highlighted Projects
 
+### 🧠 [AI Governance Chatbot](https://github.com/ashrane111/AI-GovBot)
+> Developed an **LLM-powered RAG chatbot** using LangChain, Airflow, and MLflow (95% accuracy)  
+> Deployed on **GCP + Docker**, monitored via **Datadog** for drift detection and model health
+
+### 🔮 Customer Churn Prediction Service
+> Built **XGBoost churn model (AUC 0.82)** with SHAP interpretability to identify high-risk customers  
+> Deployed as a **REST API on AWS ECS**, processing 5M+ daily records with PySpark + Airflow
+
 ### 📊 [AdImpact Optimization: A/B Testing for Enhanced Conversion Rates](https://github.com/ashrane111/AdImpact-Optimization)
 > Designed and analyzed A/B tests on 588K marketing samples using **Python, Pyro, and Scikit-learn**  
 > Achieved **47.5% uplift in conversion rates**, validated statistically via **Chi-Square and Bayesian inference**  
@@ -109,14 +117,6 @@ I enjoy solving problems end-to-end, from data wrangling and feature engineering
 ### 📄 [Intelligent Document Processing](https://github.com/ashrane111/Intelligent-Document-Processing)
 > Built CNN-OCR pipeline with **VGG + OpenCV + Regex** to extract structured info from scanned documents  
 > Improved OCR accuracy by 40% and document classification by 75%  
-
-### 🧠 [AI Governance Chatbot](https://github.com/ashrane111/AI-GovBot)
-> Developed an **LLM-powered RAG chatbot** using LangChain, Airflow, and MLflow (95% accuracy)  
-> Deployed on **GCP + Docker**, monitored via **Datadog** for drift detection and model health  
-
-### 🔮 Customer Churn Prediction Service
-> Built **XGBoost churn model (AUC 0.82)** with SHAP interpretability to identify high-risk customers  
-> Deployed as a **REST API on AWS ECS**, processing 5M+ daily records with PySpark + Airflow  
 
 ---
 
