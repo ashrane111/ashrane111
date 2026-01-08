@@ -1,7 +1,7 @@
 <!-- 🌟 GitHub Profile README for Ashutosh Rane -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:9333ea&height=200&section=header&text=Ashutosh%20Rane&fontSize=45&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20ML%20| %20MLOps%20Engineer&descAlignY=55&animation=fadeIn" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:9333ea&height=200&section=header&text=Ashutosh%20Rane&fontSize=45&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20MLOps%20Engineer&descAlignY=55&animation=fadeIn" alt="Header Banner"/>
 </p>
 
 <h3 align="center">👋 Hi there! I'm Ashutosh — passionate about building data-driven and production-grade AI systems</h3>
